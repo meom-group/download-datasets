@@ -8,8 +8,8 @@ from datetime import timedelta
 import copernicusmarine
 
 
-USERNAME = 'bbarnier1'
-PASSWORD = 'Bernard@CMEMS2016'
+USERNAME = CMEMS_USERNAME
+PASSWORD = CMEMS-PASSWD
 motu_uri = 'https://my.cmems-du.eu/motu-web/Motu'
 serviceID = "GLOBAL_MULTIYEAR_PHY_001_030-TDS"
 productID = "cmems_mod_glo_phy_my_0.083_P1D-m"
