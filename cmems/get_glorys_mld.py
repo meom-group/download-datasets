@@ -6,7 +6,8 @@ import os
 import time
 from datetime import timedelta
 import copernicusmarine
-
+import cachier
+cachier.disable_caching()
 
 USERNAME = 'YOUR_CMEMS_USERNAME'
 PASSWORD = 'YOUR_CMEMS-PASSWD'
