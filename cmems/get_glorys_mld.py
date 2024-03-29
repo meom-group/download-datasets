@@ -5,7 +5,7 @@ import sys
 import os
 import time
 from datetime import timedelta
-import copernicus_marine_client as copernicusmarine
+import copernicusmarine
 
 
 USERNAME = 'bbarnier1'
